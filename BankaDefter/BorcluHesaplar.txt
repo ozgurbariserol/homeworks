@@ -1,0 +1,5 @@
+Hesap No: 2
+Musteri Bilgileri: 
+Ad Soyad: qwe qwe
+Telefon: qwe
+Bakiye: -500TL

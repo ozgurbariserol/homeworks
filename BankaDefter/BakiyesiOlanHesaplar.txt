@@ -1,0 +1,10 @@
+Hesap No: 1
+Musteri Bilgileri: 
+Ad Soyad: asd asd
+Telefon: 123
+Bakiye: 200TL
+Hesap No: 90
+Musteri Bilgileri: 
+Ad Soyad: qwe qwe
+Telefon: qwe
+Bakiye: 5000TL
